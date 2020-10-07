@@ -2,7 +2,7 @@
 # To prevent merge conflicts, only change the line you were assigned to. 
 # Do not change variable names or method logic within the event session. Future (outside the event) PRs that change this are fine.
 
-name_1 = ""
+name_1 = "Tobe Okafor"
 name_2 = ""
 name_3 = ""
 name_4 = ""
