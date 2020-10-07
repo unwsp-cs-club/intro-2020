@@ -16,7 +16,7 @@ name_11 = ""
 name_12 = ""
 name_13 = ""
 name_14 = ""
-name_15 = ""
+name_15 = "Samuel Rumsey"
 
 # Print each name that is not empty
 for i in range(1, 16):
