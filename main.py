@@ -4,7 +4,7 @@
 
 name_1 = "Tobe Okafor"
 name_2 = ""
-name_3 = ""
+name_3 = "Ryan Chen"
 name_4 = "Aaron"
 name_5 = "Alyssa Stratton"
 name_6 = ""
